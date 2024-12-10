@@ -29,7 +29,7 @@ SmartTap is a microcontroller-based system designed to automate water taps in pu
 - Water Pipe.  
 
 ## Assembly Code  
-The project is programmed using assembly language for precise control and functionality. The complete assembly code is available in this repository under `smart_tap_control.asm`.  
+The project is programmed using assembly language for precise control and functionality. The complete assembly code is available in this repository under `Main.asm`.  
 
 ## Challenges Faced  
 - **Component Availability:** Some components were not available in simulation tools like Proteus.  
