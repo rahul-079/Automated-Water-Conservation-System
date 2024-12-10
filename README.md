@@ -16,7 +16,7 @@ SmartTap is a microcontroller-based system designed to automate water taps in pu
 - **Laboratories:** Maintains cleanliness without manual operation.  
 - **Commercial Kitchens:** Hands-free operation for enhanced efficiency.  
 
-## Circuit Diagram   
+## Circuit Diagram (Proteus)
 ![psdrj](https://github.com/user-attachments/assets/9668fa39-53e2-4b44-977e-2a155e1e9321)
 
 
